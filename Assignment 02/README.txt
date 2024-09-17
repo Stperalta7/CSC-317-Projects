@@ -1,1 +1,11 @@
  Assignment 02 folder with html files and CSS file
+
+    This project consists of:
+       - index.html: homepage with dynamic links and references
+       - two.html: html table containing my favorite coding resources on the web.
+       - three.html: SVG animation demonstration
+       - style.css: CSS implementation to decorate each related html page
+          CSS properties used: dynamic links
+                               colored banner with SVG shapes
+                               custom font
+                               stylized blocks of content
